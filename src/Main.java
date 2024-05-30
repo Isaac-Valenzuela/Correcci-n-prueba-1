@@ -17,12 +17,14 @@ public class Main {
         hotel6.setSector("Carapungo");
         hotel6.mostrar();
         //MOSTRAR EL OBJETO VACIO, SETEARLE CON NUEVOS ATRIBUTOS, Muestra EL OBJETO ACTUALIZADO
-        hotel7.mostrar();
-        hotel7.setCodigo(129);
-        hotel7.setNombre("Nada");
-        hotel7.setCiudad("Quito");
-        hotel7.setSector("Pomasqui");
-        hotel7.mostrar();
+
+        //Actualizo desde el git para que esto no se muestre
+        //hotel7.mostrar();
+        //hotel7.setCodigo(129);
+        //hotel7.setNombre("Nada");
+        //hotel7.setCiudad("Quito");
+        //hotel7.setSector("Pomasqui");
+        //hotel7.mostrar();
         //MOSTRAR TODOS LOS OBJETOS MEDIANTE LE METODO MOSTRAR DE LA CLASE HOTEL
         hotel1.mostrar();
         hotel2.mostrar();
