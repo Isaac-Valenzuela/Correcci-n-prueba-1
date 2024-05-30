@@ -45,5 +45,6 @@ public class Main {
         hotel1.mostrar();
         hotel2.mostrar();
         hotel3.mostrar();
+        //Este solo es un mensaje de prueba
     }
 }
